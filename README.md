@@ -123,6 +123,8 @@ El framework Laravel es un software de código abierto con licencia bajo la [MIT
 
 ![](img/pantalla28.png)
 
+- [Página Web para Convertir CSV en SQL](https://tableconvert.com/es/csv-to-sql)
+
 ![](img/pantalla29.png)
 
 ![](img/pantalla30.png)
